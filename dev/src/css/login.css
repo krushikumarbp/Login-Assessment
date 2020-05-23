@@ -1,0 +1,380 @@
+  @media only screen and (max-width:767px){
+    .login {
+      width: 48vh;
+      background: white;
+      border: 1px solid #6c6a6a;
+      margin-top: 29%;
+      margin-left: 5%;
+    }
+    .login h1 {
+      margin: 0px 0px 4px;
+      line-height: 35px;
+      font-size: 14px;
+      font-weight: bold;
+      color: #FFFFFF;
+      text-align: center;
+      text-shadow: 0 1px white;
+      background: #637a91;
+      border-bottom: 1px solid #cfcfcf;
+      /* border-radius: 3px 3px 0 0; */
+    }
+          
+    .inputBox {
+      margin: 16px 0 0;
+      width: 50%;
+      display: inline-block;
+      line-height: 35px;
+      /* //border: 1px solid #6c6a6a;
+      box-sizing: border-box; */
+    }
+    .lableLeft{
+      width:100%;
+      color:#6e6c6c;
+    }
+    .lableRight{
+        width:100%;
+        color:#6e6c6c;
+        margin-left: -13px;
+    }
+        
+    .newinput_left{
+      border: 1px solid grey;
+      width: 85%;
+      height: 28px;
+      border-radius: 4%;
+      font-size: 14px;
+      background-color: #f6f5f5;
+      border:1px solid grey;
+      color:#6e6c6c;
+    }
+        
+    .newinput_right{
+      border: 1px solid grey;
+      width: 85%;
+      height: 28px;
+      border-radius: 4%;
+      margin-left: -14px;
+      font-size: 14px;
+      background-color: #f6f5f5;
+      border:1px solid grey;
+      color:#6e6c6c;
+    }
+    .lableSpan{
+        font-size: 14px;
+        font-weight: 553;
+    }
+    .freeTrial {
+      margin: 8px 7px 16px;
+      line-height: 35px;
+      font-size: 13px;
+      font-weight: bold;
+      color: #FFFFFF;
+      text-align: center;
+      text-shadow: 0 1px white;
+      background: #5fcf80;
+      border-bottom: 1px solid #cfcfcf;
+      border-radius: 3px 3px 0 0;
+      width: 91%;
+    }
+    .gridView{
+      width:100%;
+      margin-left:20px;
+      margin-top: -18px;
+    }
+    .gridButton{
+      width:100%;
+      margin-left:7px;
+    }
+    .lineBreak{
+      margin: 14px 16px 5px 19px;
+      color: #f8f3f3;
+      /* border-width: 0.7px; */
+      }
+    .loginHelp{
+      margin: -31px 0px 0px 17px;
+      font-size: 14px;
+    }
+     .terms{
+      color: #0cbac6;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    .agree{
+      color:#6e6c6c;
+    }
+    .triangle-right {
+      width: 0;
+      height: 0;
+      border-top: 5px solid transparent;
+      border-left: 10px solid white;
+      border-bottom: 5px solid transparent;
+      position: relative;
+      top: -40px;
+      left: 69%;
+    }
+  }
+  @media  only screen and (min-width:992px){
+    .login {
+        width: 76vh;
+        background: white;
+        border: 1px solid #6c6a6a;
+        margin-top: 10%;
+        margin-left: 28%;
+      }
+      .login h1 {
+        margin: 0px -2px 13px;
+        line-height: 50px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-align: center;
+        text-shadow: 0 1px white;
+        background: #637a91;
+        border-bottom: 1px solid #cfcfcf;
+        /* border-radius: 3px 3px 0 0; */
+      }
+      
+      .inputBox {
+        margin: 20px 0 0;
+        width: 50%;
+        display: inline-block;
+        line-height: 40px;
+        /* //border: 1px solid #6c6a6a;
+        box-sizing: border-box; */
+      }
+      .lableLeft{
+        width:100%;
+        color:#6e6c6c;
+      }
+      .lableRight{
+          width:100%;
+          color:#6e6c6c;
+          margin-left: -19px;
+      }
+    
+      .newinput_left{
+        border: 1px solid grey;
+        width: 85%;
+        height: 37px;
+        border-radius: 4%;
+        font-size: 16px;
+        background-color: #f6f5f5;
+        border:1px solid grey;
+        color:#6e6c6c;
+      }
+    
+      .newinput_right{  
+        border: 1px solid grey;
+        width: 85%;
+        height: 37px;
+        border-radius: 4%;
+        margin-left: -21px;
+        font-size: 16px;
+        background-color: #f6f5f5;
+        border:1px solid grey;
+        color:#6e6c6c;
+      }
+      .lableSpan{
+          font-size: 16px;
+          font-weight: 553;
+      }
+      .freeTrial {
+        margin: 14px 19px 20px;
+        line-height: 45px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-align: center;
+        text-shadow: 0 1px white;
+        background: #5fcf80;
+        border-bottom: 1px solid #cfcfcf;
+        border-radius: 3px 3px 0 0;
+        width: 91%;
+      }
+      .gridView{
+        width:100%;
+        margin-left:33px;
+        margin-top: -15px;
+      }
+      .gridButton{
+        width:100%;
+        margin-left:7px;
+      }
+      .lineBreak{
+        margin: 23px 33px 8px 33px;
+        color: #f8f3f3;
+
+      }
+      .loginHelp{
+        margin: -26px 0px 0px 26px;
+        font-size: 16px;
+      }
+      .terms{
+        color: #0cbac6;
+        font-weight: bold;
+        text-decoration: none;
+      }
+      .agree{
+        color:#6e6c6c;
+      }
+      .triangle-right {
+        width: 0;
+        height: 0;
+        border-top: 5px solid transparent;
+        border-left: 10px solid white;
+        border-bottom: 5px solid transparent;
+        position: relative;
+        top: -49px;
+        left: 64%;
+      }
+  }
+
+  @media  only screen and (min-width: 767px) and (max-width:991px){
+    .login {
+        width: 75vh;
+        background: white;
+        border: 1px solid #6c6a6a;
+        margin-top: 20%;
+        margin-left: 15%;
+      }
+      .login h1 {
+        margin: 0px -2px 21px;
+        line-height: 45px;
+        font-size: 18px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-align: center;
+        text-shadow: 0 1px white;
+        background: #637a91;
+        border-bottom: 1px solid #cfcfcf;
+        border-radius: 3px 3px 0 0;
+      }
+      
+      .inputBox {
+        margin: 20px 0 0;
+        width: 50%;
+        display: inline-block;
+        line-height: 35px;
+        /* //border: 1px solid #6c6a6a;
+        box-sizing: border-box; */
+      }
+      .lableLeft{
+        width:100%;
+        color:#6e6c6c;
+      }
+      .lableRight{
+          width:100%;
+          color:#6e6c6c;
+          margin-left: -19px;
+      }
+      .newinput_left{
+        border: 1px solid grey;
+        width: 85%;
+        height: 35px;
+        border-radius: 4%;
+        font-size: 18px;
+        background-color: #f6f5f5;
+        border:1px solid grey;
+        color:#6e6c6c;
+      }
+    
+      .newinput_right{
+        border: 1px solid grey;
+        width: 85%;
+        height: 35px;
+        border-radius: 4%;
+        margin-left: -21px;
+        font-size: 18px;
+        background-color: #f6f5f5;
+        border:1px solid grey;
+        color:#6e6c6c;
+      }
+      .lableSpan{
+          font-size: 18px;
+          font-weight: 553;
+      }
+      .freeTrial {
+        margin: 20px 20px 20px;
+        line-height: 45px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-align: center;
+        text-shadow: 0 1px white;
+        background: #5fcf80;
+        border-bottom: 1px solid #cfcfcf;
+        border-radius: 3px 3px 0 0;
+        width: 91%;
+      }
+      .gridView{
+        width:100%;
+        margin-left:33px;
+        margin-top: -20px;
+      }
+      .gridButton{
+        width:100%;
+        margin-left:7px;
+      }
+      .lineBreak{
+        margin: 29px 33px 8px 33px;
+      }
+      .loginHelp{
+        margin: -26px 0px 0px 28px;
+        font-size: 18px;
+        color:#6e6c6c;
+      }
+      .terms{
+        color: #0cbac6;
+        font-weight: bold;
+        text-decoration: none;
+      }
+      .agree{
+        color:#6e6c6c;
+      }
+      .triangle-right {
+        width: 0;
+        height: 0;
+        border-top: 5px solid transparent;
+        border-left: 10px solid white;
+        border-bottom: 5px solid transparent;
+        position: relative;
+        top: -50px;
+        left: 64%;
+      }
+  } 
+  .alertFail {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+  }
+  .alertSucess {
+    padding: 20px;
+    background-color: #5fcf80;
+    color: white;
+  }
+  .alertTerms {
+    padding: 20px;
+    background-color: #2196F3;
+    color: white;
+  } 
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .closebtn:hover {
+    color: black;
+  }
+
+
+	
+  /* position: fixed;
+  top: 11%;
+  left: 41%; */
+ 

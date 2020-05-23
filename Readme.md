@@ -1,6 +1,6 @@
 # Project Title
 
-Assignment
+Login assignment
 
 ## Getting Started
 

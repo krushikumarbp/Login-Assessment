@@ -75,6 +75,7 @@
       border-bottom: 1px solid #cfcfcf;
       border-radius: 3px 3px 0 0;
       width: 91%;
+      border: 1px solid #999 !important;
     }
     .gridView{
       width:100%;
@@ -190,6 +191,7 @@
         border-bottom: 1px solid #cfcfcf;
         border-radius: 3px 3px 0 0;
         width: 91%;
+        border: 1px solid #999 !important;
       }
       .gridView{
         width:100%;
@@ -225,7 +227,7 @@
         border-bottom: 5px solid transparent;
         position: relative;
         top: -49px;
-        left: 64%;
+        left: 66%;
       }
   }
 
@@ -305,6 +307,7 @@
         border-bottom: 1px solid #cfcfcf;
         border-radius: 3px 3px 0 0;
         width: 91%;
+        border: 1px solid #999 !important;
       }
       .gridView{
         width:100%;
@@ -338,8 +341,8 @@
         border-left: 10px solid white;
         border-bottom: 5px solid transparent;
         position: relative;
-        top: -50px;
-        left: 64%;
+        top: -49px;
+        left: 66%;
       }
   } 
   .alertFail {
